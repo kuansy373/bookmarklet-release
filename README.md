@@ -1,6 +1,6 @@
 # 一行化ブックマークレット
 
-## １．vertical-text-size-color.js
+## vertical-text-size-color.js
 <br>
 対象サイトは「青空文庫、小説家になろう、カクヨム、アルファポリス」です。
 <br><br>
