@@ -2,7 +2,7 @@
 
 ## vertical-text-size-color.js
 <br>
-対象サイトは「青空文庫、小説家になろう、カクヨム、アルファポリス」です。
+対象サイトは「青空文庫・小説家になろう・カクヨム・アルファポリス」です。
 <br><br>
 <pre><code>javascript:(function(){var s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/kuansy373/bookmarklet-release@v1.1.2/vertical-text-size-color.js';document.body.appendChild(s);})();
 </code></pre>
@@ -23,3 +23,8 @@
 webページが広告まで完全に読み込んでからブックマークレットを実行してください。<br>
 自動スクロールのカクつきがかなり発生します。たぶんChromeがいちばんスムーズです。フォントをいじるとカクつきやすいです。<br>
 ここに載せているjavascript:は最新のタグにしています。
+<br>
+## おまけ
+### color.js
+<pre><code>javascript:(function(){var s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/kuansy373/bookmarklet-release@v1.1.2/color.js';document.body.appendChild(s);})();
+</code></pre><br>
