@@ -16,7 +16,7 @@
 <br><br>
 <img src="images/photo1.jpg" alt="Example Bookmarklet" width="300">
 <br>
-右上、左上にうっすらとある〇や□、△をタップするといろいろ設定できます。。
+右上、左上にうっすらとある〇や□、△をタップするといろいろ設定できます。
 <br><br>
 <img src="images/photo2.jpg" alt="Example Bookmarklet" width="300">
 <br>
