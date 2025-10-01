@@ -11,6 +11,7 @@ AIが書いたコードをコピペ、ツギハギして作ったので、私は
 対象サイトは青空文庫に加え、｢小説家になろう・カクヨム・アルファポリス」です。
 <br><br>
 ### 実行
+これをコピーしてブックマークのurl欄に貼り付けます。
 <pre><code>javascript:(function(){var s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/kuansy373/bookmarklet-release@v1.2.3/vertical-text-size-color.js';document.body.appendChild(s);})();
 </code></pre>
 <br>
