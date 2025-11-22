@@ -5,13 +5,13 @@
 - AI（ChatGPT）を駆使して作りました。<br>
 AIが書いたコードをコピペ、ツギハギして作ったので、私はプログラミング素人とも名乗れない、プログラミング未経験者です。<br>
 - みもねる氏の｢青空一行文庫ブックマークレット｣を知り、使ってみて、｢更にこれが出来たらすごいんじゃないか？｣と思う機能を付け加えていきました。<br><br>
-- （追記:2025.11/07）AndroidとWindowsでは正常な動作を確認していますが、iOSでは色々と不具合があり、使い物になりませんでした。<br><br>
+- （追記:2025.11/07）AndroidとWindowsでは正常な動作を確認していますが、iOSでは自動スクロールとページ切り替えに不具合があり、使い物になりませんでした。<br><br>
 
 ### 対象サイト
 対象サイトは青空文庫に加え、｢小説家になろう・カクヨム・アルファポリス」です。
 <br><br>
 ### 実行
-これをコピーしてブックマークのurl欄に貼り付けます。
+これをコピーして、ブラウザのブックマークのurl欄に貼り付けます。
 <pre><code>javascript:(function(){var s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/kuansy373/bookmarklet-release@v1.2.8/vertical-text-size-color.js';document.body.appendChild(s);})();
 </code></pre>
 <br>
