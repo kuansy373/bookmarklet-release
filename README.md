@@ -2,7 +2,7 @@
 
 ## vertical-text-size-color.js
 ### はじめに
-- AI（ChatGPT）を駆使して作りました。<br>
+- AIを駆使して作りました。<br>
 AIが書いたコードをコピペ、ツギハギして作ったので、私はプログラミング素人とも名乗れない、プログラミング未経験者です。<br>
 - みもねる氏の｢[青空一行文庫ブックマークレット](https://qiita.com/mimonelu/items/26288a6347e958f500af)｣を知り、使ってみて、｢更にこれが出来たらすごいんじゃないか？｣と思う機能を付け加えていきました。<br><br>
 - （追記:2025.11/07）AndroidとWindowsでは正常な動作を確認していますが、iOSでは自動スクロールとページ切り替えに不具合があり、使い物になりませんでした。<br><br>
@@ -41,10 +41,3 @@ AIが書いたコードをコピペ、ツギハギして作ったので、私は
 
 ### 不具合・要望
 不具合、要望がありましたら、このリポジトリ内で報告するか、この [YouTubeの動画](https://youtu.be/b3lUvSqFgrY?si=7jlP4xZH5-1cneE3) のコメント欄に書き込んでください。可能な範囲で修正し、リリースしてここのタグを更新します。
-<br><br>
-
-## おまけ
-### color.js
-<pre><code>javascript:(function(){var s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/kuansy373/bookmarklet-release@v1.1.3/color.js';document.body.appendChild(s);})();
-</code></pre><br>
-これは最新のタグではないです。
