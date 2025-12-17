@@ -12,7 +12,7 @@ AIが書いたコードをコピペ、ツギハギして作ったので、私は
 <br><br>
 ### 実行
 これをコピーして、ブラウザのブックマークのurl欄に貼り付けます。
-<pre><code>javascript:(function(){var s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/kuansy373/novel-viewer-bookmarklet@v1.4.1/vertical-text-size-color.js';document.body.appendChild(s);})();
+<pre><code>javascript:(function(){var s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/kuansy373/novel-viewer-bookmarklet@v1.4.2/vertical-text-size-color.js';document.body.appendChild(s);})();
 </code></pre>
 <br>
 最初実行したときは、このような感じです。
